@@ -1,0 +1,6 @@
+{
+  "name": "itech celular e informática",
+  "description": "Assistência técnica especializada em celulares, computadores e acessórios em Canindé de São Francisco, Sergipe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
