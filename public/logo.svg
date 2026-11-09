@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 170" fill="none">
+  <!-- iTech Logotype - Exact official vector reproduction matching logo1ponto.png -->
+  <style>
+    .brand-title {
+      font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+      font-size: 110px;
+      font-weight: 800;
+      letter-spacing: -3px;
+      fill: #FFFFFF;
+    }
+    .brand-sub {
+      font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+      font-size: 21px;
+      font-weight: 700;
+      letter-spacing: 7px;
+      fill: #FFFFFF;
+      text-transform: uppercase;
+    }
+  </style>
+
+  <!-- Yellow dot above the 'i' -->
+  <circle cx="34" cy="27" r="15" fill="#FFBE0B" />
+
+  <!-- "itech" text without the standard dot on i (represented by custom yellow circle above) -->
+  <text x="14" y="112" class="brand-title">
+    <tspan fill="#FFFFFF">ıtech</tspan>
+  </text>
+
+  <!-- "CELULAR E INFORMÁTICA" -->
+  <text x="16" y="152" class="brand-sub">CELULAR E INFORMÁTICA</text>
+
+  <!-- Yellow dot after INFORMÁTICA at the end of the subtitle -->
+  <circle cx="438" cy="144" r="9" fill="#FFBE0B" />
+</svg>

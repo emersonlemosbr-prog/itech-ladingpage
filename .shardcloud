@@ -1,0 +1,8 @@
+DISPLAY_NAME=itech-celular
+DESCRIPTION=Landing page Itech Celular
+MAIN=server.js
+LANGUAGE=node
+MEMORY=512
+VERSION=recommended
+CUSTOM_COMMAND=npm run build && npm start
+
